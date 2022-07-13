@@ -1,3 +1,3 @@
 # ethers.v
 
-** Warning ** Unstable module
+_Warning_ Unstable module
